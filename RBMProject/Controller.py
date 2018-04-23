@@ -20,6 +20,7 @@ from sklearn.model_selection import train_test_split
 class Controller(object):
     """
     Controls main process.
+    MVC model
     """
 
     def __init__(self, config_file_name):
